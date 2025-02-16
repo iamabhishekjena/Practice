@@ -60,14 +60,7 @@
       <recent name="C:\Users\iamab\OneDrive\Desktop\DEV\Practice\src\SOLID\SingleResponsibility\After" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="CollectionsLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsLearn" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Switch (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOLID.LishkovSubstitution.Before.Main" />
       <module name="Practice" />
@@ -116,19 +109,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Switch (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.DependencyInversion.After.Switch" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLID.DependencyInversion.After.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.DependencyInversion.Before.Switch" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLID.DependencyInversion.Before.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CollectionsLearn" />
       <item itemvalue="Application.Ques916" />
       <item itemvalue="Application.StreamPractice" />
       <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Switch" />
+      <item itemvalue="Application.Switch (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switch (1)" />
+        <item itemvalue="Application.Switch" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StreamPractice" />
-        <item itemvalue="Application.CollectionsLearn" />
-        <item itemvalue="Application.Ques916" />
       </list>
     </recent_temporary>
   </component>
