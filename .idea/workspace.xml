@@ -60,13 +60,13 @@
       <recent name="C:\Users\iamab\OneDrive\Desktop\DEV\Practice\src\SOLID\SingleResponsibility\After" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Switch (1)">
+  <component name="RunManager" selected="Application.Store">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOLID.LishkovSubstitution.Before.Main" />
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Behavioral.StrategyPattern.After.Main" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SOLID.LishkovSubstitution.Before.*" />
+          <option name="PATTERN" value="DesignPatterns.Behavioral.StrategyPattern.After.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,19 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Ques916" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.StreamPractice" />
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Behavioral.ObserverPattern.Store" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="DesignPatterns.Behavioral.ObserverPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +129,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ques916" />
-      <item itemvalue="Application.StreamPractice" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Switch" />
       <item itemvalue="Application.Switch (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Store" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Switch (1)" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StreamPractice" />
       </list>
     </recent_temporary>
   </component>
