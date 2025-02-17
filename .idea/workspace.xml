@@ -47,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dev/Practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DesignPatterns/Structural/Decorator/Toppings" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -55,12 +55,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practice\src\DesignPatterns\Structural\Decorator\Toppings" />
       <recent name="C:\Users\iamab\OneDrive\Desktop\DEV\Practice\src\SOLID\OpenClosed\After" />
       <recent name="C:\Users\iamab\OneDrive\Desktop\DEV\Practice\src\SOLID\OpenClosed\Before" />
       <recent name="C:\Users\iamab\OneDrive\Desktop\DEV\Practice\src\SOLID\SingleResponsibility\After" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Store">
+  <component name="RunManager" selected="Application.Pizzeria">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatterns.Behavioral.StrategyPattern.After.Main" />
       <module name="Practice" />
@@ -74,14 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SOLID.LishkovSubstitution.After.Main" />
+    <configuration name="Pizzeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Structural.Decorator.Pizzeria" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SOLID.LishkovSubstitution.After.*" />
+          <option name="PATTERN" value="DesignPatterns.Structural.Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Switch" />
       <item itemvalue="Application.Switch (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Store" />
+      <item itemvalue="Application.Pizzeria" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pizzeria" />
         <item itemvalue="Application.Store" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Switch (1)" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
